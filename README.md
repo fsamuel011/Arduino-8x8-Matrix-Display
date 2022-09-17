@@ -1,4 +1,7 @@
 # Arduino-8x8-Matrix-Display
+
+September 29, 2021
+
 This is a [Viral Science](https://www.viralsciencecreativity.com/post/arduino-led-8x8-matrix-display-max7219) project. This uses the MAX7219 8x8 Matrix display to show images.
 
 ![image](https://user-images.githubusercontent.com/93152842/190870613-33deed75-d9f5-46de-b2e6-a43a5ea774db.png)
